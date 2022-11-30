@@ -1,7 +1,5 @@
 body{
-    background-color: #C6C9CE;
-}
-.parallax{
+    background: url(../css/img/cloudhead.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
