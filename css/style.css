@@ -1,4 +1,18 @@
-img{
-    width: 200px;
-    height: 300px;
+body{
+    background-color: #C6C9CE;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.section{
+    justify-content:center;
+    align-items:center;
+}
+.bg-primary{
+background-color:#3A84C6 ;
+}
+.bg-info{
+background-color: #2E7CAE;
 }
