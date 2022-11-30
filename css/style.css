@@ -1,6 +1,12 @@
 body{
     background-color: #C6C9CE;
 }
+.parallax{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .container{
     display:flex;
     justify-content: center;
