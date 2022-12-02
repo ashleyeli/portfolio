@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"> &#127827; The perfect setup for me, myself, and I. &#11088; &#11088;&#11088;<br> \r Feel free to use it if it resonates with your needs.\r <br>\r Trying to Git into it! &#9939;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass -w scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleyeli/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleyeli/portfolio/issues"
+  },
+  "homepage": "https://github.com/ashleyeli/portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "sass": "^1.56.1"
+  }
+}
