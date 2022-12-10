@@ -1,19 +1,5 @@
-
 @import"variables";
 @import"bootstrap-setup";
 body{
-    background: url(../img/cloudhead.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.container{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-}
-.section{
-    justify-content:center;
-    align-items:center;
+    background-color: beige;
 }
